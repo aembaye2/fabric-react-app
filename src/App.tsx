@@ -60,7 +60,7 @@ function App() {
 
   return (
     <div className="center-content">
-      <h1>Drawing Canvas</h1>
+      <h1>Drawing Canvas!!!!!!!!!</h1>
       <DrawingModeSelector
         drawingMode={drawingMode}
         setDrawingMode={setDrawingMode}
